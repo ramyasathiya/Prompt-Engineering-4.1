@@ -171,7 +171,7 @@ AI-Student-Bot Template on GitHub
 Let me know if you'd like documentation or deployment help too.
 ```
 # Result
-
+Thus the Prompts were exected succcessfully .
 
 
 
